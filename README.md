@@ -14,7 +14,7 @@
 
 This project examines publicly available information on U.S. defense-related investment and activity in the Philippines, with particular attention to defense infrastructure.
 
-The project is being developed as a data-analysis dashboard rather than a general overview of the South China Sea. The current working focus is to identify **where U.S. defense infrastructure investment is occurring, how much is being invested, what is being funded, why those locations matter strategically, and whether there is evidence of additional future investment or expanded access**.
+The project is being developed as a data-analysis dashboard rather than a general overview of the South China Sea. The current working focus is to identify **where U.S. defense infrastructure investment is occurring in the Philippines, how much is being invested, what is being funded, why those locations matter strategically, and whether there is evidence of additional future investment or expanded access**.
 
 The dashboard is still under development. Research, source collection, data validation, and the analytical framework are being refined before the final visualization is produced.
 
@@ -35,9 +35,6 @@ The United States in the past signed **The Mutual Defense Treaty(MDT)** with **T
 As a Result of 2016 Rule from the International Court China aggressive has gotten the attention of the United States and neighboring countres such as **Australia**, **Japan** and **South Korea**. Such aggressive is the driving the U.S to ramp up production of military navy ships, weapons and ammunition to deter future conflict with China. China aggresation is also directed at Taiwan, as the island prepares for conflict with China, the United States is also preparing to do the same thing.
 
 
-## Key Findings
-Not yet completed
-
 
 
 
@@ -50,10 +47,23 @@ Main Area:
 Question:
 >> Where is the United States investing in Philippine defense infrastructure, and what does the distribution of that investment indicate about U.S. strategic priorities in the Western Pacific? 
 
+Answer: Under President Marcos of the Philippines there strategy has to been to invest external defense [^9], External security refers to the protection of the philippines sovereign state against threats from outside there borders, this includes military aggression, armed conflict, and cross-border instability... That means the philippines is investing in external security to protect its sovereignty from China aggression. The U.S and Philippines agreed to the Nine Enhanced Defense Cooperation Agreement (EDCA) Sites, which provide military access to nine defense sites across the Philippines, four of the agreed sites were established in 2023(Naval Base Camilo Osias in Sta Ana, Cagayan; Lal-lo Airport in Lal-lo, Cagayan; Camp Melchor Dela Cruz in Gamu, Isabela and Balabac Island in Palawan)[^13]. 
+
+
+
 
 Supporting questions
 
-1. Where has the U.S. already invested?
+1. **Where has the U.S. based already invested in?**
+
+   **Answer:** Under the Nine Enhanced Defense Cooperations Agreement (EDCA) the U.S has access to nine defense sites across the philippines. Five of bases were agreed upon in 2014(Antonio Bautista Air Base in Palawan, Basa Air Base in Pampanga, Fort Magsaysay in Nueva Ecija, Lumbia Airport in Cagayan de Oro, Benito Ebuen Air Base in Cebu)[^13]. In total of 100 million 
+     - Antonio Bautista Air Base Palawn 
+        - From 2016 to 2023 significant have been done from the entire runway being resurfaced and expanded with hangars added in 2018 and 2019. Lastly paved cemend areas were expanded in 2022 and 2023. 
+     - Base Air Base in Pampanga
+        - From 
+     - Fort Magsaysay in Nueva Ecija
+     - Lumbia Airport in Cagyan de Oro
+     - Benito Ebuen Air Base in Cebu
 2. How much has been invested?
 3. What type of infrastructure is being funded?
 4. Why are these locations strategically important?
@@ -66,5 +76,19 @@ What do you want to show on the dashboard for the Philippines section :
    - show where the U.S investment in the philippines is headed. 
    - show what excursies the U.S and Philippines that have/will take place
 
+
+
+## Key Findings
+Not yet completed... When finished copy and paste your summary here.
+
+
+
 ## Source & Methodology
 6. In July 2016, the Permanent Court of Arbitration at The Hague ruled on a claim brought against China by the Philippines under UNCLOS, ruling in favor of the Philippines on almost every count.[Territorial Dispute in the South China Sea ](https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea)
+
+9. Increasing International Military Education and Training (IMET):  The United States is providing `$21.45 million` to enhance military education and training for ASEAN countries.[U.S Mission To ASEAN](https://asean.usmission.gov/advancing-american-safety-strength-and-prosperity-in-southeast-asia/).
+
+
+13. The Philippines allows the U.S. DOD to deploy military forces at nine Philippine defense sites spread across the country. This access is governed by the Enhanced Defense Cooperation Agreement (EDCA), a bilateral agreement between the Philippines and the United States initially signed in 2014 and expanded in 2023.[U.S. Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
+
+>Nine Enhanced Defense Cooperation Agreement (EDCA) Sites. Under the Enhanced Defense Cooperation Agreement, the U.S. military has rotational access to nine defense sites across the Philippines. Five of these installations were agreed upon in 2014 (Antonio Bautista Air Base in Palawan, Basa Air Base in Pampanga, Fort Magsaysay in Nueva Ecija, Lumbia Airport in Cagayan de Oro, Benito Ebuen Air Base in Cebu), while the remaining four were agreed upon in 2023 (Naval Base Camilo Osias in Sta Ana, Cagayan; Lal-lo Airport in Lal-lo, Cagayan; Camp Melchor Dela Cruz in Gamu, Isabela and Balabac Island in Palawan)[U.S Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
