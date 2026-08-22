@@ -1,4 +1,4 @@
-# U.S Defense Infrastructure Investment in the Philippines
+# U.S Defense Infrastructure Investment in the Philippines (2016 - 2026)
 > **Project Status:** Work in Progress  
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
 
@@ -79,7 +79,7 @@ What do you want to show on the dashboard for the Philippines section :
 
 
 ## Key Findings
-Not yet completed... When finished copy and paste your summary here.
+Not yet completed...
 
 
 
