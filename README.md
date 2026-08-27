@@ -2,6 +2,14 @@
 > **Project Status:** Work in Progress  
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
 
+[![status: active](https://img.shields.io/badge/status-active-4caf50)]()
+[![dashboard: Power BI](https://img.shields.io/badge/dashboard-Power%20BI-f2c811)]()
+[![data: OSINT](https://img.shields.io/badge/data-OSINT-007ec6)]()
+[![license: MIT](https://img.shields.io/badge/license-MIT-green)]()
+
+- **Live dashboard:** ⟨published Power BI link⟩
+- **Data as of:** ⟨August 2026⟩ · **Analysis period:** FY2017–FY2026
+
 ## Table of Content 
 
 - [Overview](#Overview)
@@ -24,7 +32,7 @@ The dashboard is still under development. Research, source collection, data vali
 
 What's happening in the South China Sea?
 
-**Background:** Each country has 200 miles EEZ (Execlusive Economic Zone) that give each country the right to use for what they wish for. In 2016 China claimed the South China Sea and everything in the surrounding area also belongs to China. China had claimed what it called the nine-dash-line which extends the whole South China Sea. Other countries have disagreeed, the philippines was one of those countries. The Philippine there problem to the United Nation Court  
+**Background:** Each country has 200 miles EEZ (Execlusive Economic Zone) that give each country the right to use for what they wish for. In 2016 China claimed the South China Sea and everything in the surrounding area also belongs to China. China had claimed what it called the nine-dash-line which extends the whole South China Sea. Other countries have disagreeed, the philippines was one of those countries. The Philippine there problem to the United Nation Court.  
 
 As the Result of this case, the court sided with the Philippines. The Courted hade ruled that China had violated Phillippines sovereign EEZ rights.Since the ruling, china has ignored the ruling and begin to inflect aggrestion with neighboring countries such as **Vietnam**,**The Phillippines**,**Malaysia**,**Taiwan**, **Japan** and **Indonesia**. 
 
