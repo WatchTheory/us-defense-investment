@@ -1,11 +1,7 @@
 # U.S Defense Infrastructure Investment in the Philippines (2016 - 2026)
-> **Project Status:** Work in Progress  
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
 
-[![status: active](https://img.shields.io/badge/status-active-4caf50)]()
-[![dashboard: Power BI](https://img.shields.io/badge/dashboard-Power%20BI-f2c811)]()
-[![data: OSINT](https://img.shields.io/badge/data-OSINT-007ec6)]()
-[![license: MIT](https://img.shields.io/badge/license-MIT-green)]()
+
 
 - **Live dashboard:** ⟨published Power BI link⟩
 - **Data as of:** ⟨August 2026⟩ · **Analysis period:** FY2017–FY2026
@@ -26,7 +22,13 @@ The project is being developed as a data-analysis dashboard rather than a genera
 
 The dashboard is still under development. Research, source collection, data validation, and the analytical framework are being refined before the final visualization is produced.
 
+- Problem: 
 
+- What I built:
+
+- Key findings: 
+
+- Recommendations:
 
 ## Background 
 
