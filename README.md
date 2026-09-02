@@ -22,13 +22,6 @@ The project is being developed as a data-analysis dashboard rather than a genera
 
 The dashboard is still under development. Research, source collection, data validation, and the analytical framework are being refined before the final visualization is produced.
 
-- Problem: 
-
-- What I built:
-
-- Key findings: 
-
-- Recommendations:
 
 ## Background 
 
