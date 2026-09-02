@@ -1,6 +1,10 @@
 # U.S Defense Infrastructure Investment in the Philippines (2016 - 2026)
-> **Project Status:** Work in Progress  
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
+
+
+
+- **Live dashboard:** ⟨published Power BI link⟩
+- **Data as of:** ⟨August 2026⟩ · **Analysis period:** FY2017–FY2026
 
 ## Table of Content 
 
@@ -18,13 +22,19 @@ The project is being developed as a data-analysis dashboard rather than a genera
 
 The dashboard is still under development. Research, source collection, data validation, and the analytical framework are being refined before the final visualization is produced.
 
+- Problem: 
 
+- What I built:
+
+- Key findings: 
+
+- Recommendations:
 
 ## Background 
 
 What's happening in the South China Sea?
 
-**Background:** Each country has 200 miles EEZ (Execlusive Economic Zone) that give each country the right to use for what they wish for. In 2016 China claimed the South China Sea and everything in the surrounding area also belongs to China. China had claimed what it called the nine-dash-line which extends the whole South China Sea. Other countries have disagreeed, the philippines was one of those countries. The Philippine there problem to the United Nation Court  
+**Background:** Each country has 200 miles EEZ (Execlusive Economic Zone) that give each country the right to use for what they wish for. In 2016 China claimed the South China Sea and everything in the surrounding area also belongs to China. China had claimed what it called the nine-dash-line which extends the whole South China Sea. Other countries have disagreeed, the philippines was one of those countries. The Philippine there problem to the United Nation Court.  
 
 As the Result of this case, the court sided with the Philippines. The Courted hade ruled that China had violated Phillippines sovereign EEZ rights.Since the ruling, china has ignored the ruling and begin to inflect aggrestion with neighboring countries such as **Vietnam**,**The Phillippines**,**Malaysia**,**Taiwan**, **Japan** and **Indonesia**. 
 
