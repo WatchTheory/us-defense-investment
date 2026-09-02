@@ -1,9 +1,6 @@
 # U.S Defense Infrastructure Investment in the Philippines (2016 - 2026)
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
 
-
-
-- **Live dashboard:** ⟨published Power BI link⟩
 - **Data as of:** ⟨August 2026⟩ · **Analysis period:** FY2017–FY2026
 
 ## Table of Content 
