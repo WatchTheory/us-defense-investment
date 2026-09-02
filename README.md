@@ -36,53 +36,6 @@ As a Result of 2016 Rule from the International Court China aggressive has gotte
 
 
 
-
-
-### Philippines Dashboard
-
-Main Area:
->U.S. Defense Infrastructure Investment in the Western Pacific
->A Data Analysis of U.S. Investment, Military Access, and Strategic Infrastructure
-
-Question:
->> Where is the United States investing in Philippine defense infrastructure, and what does the distribution of that investment indicate about U.S. strategic priorities in the Western Pacific? 
-
-Answer: Under President Marcos of the Philippines there strategy has to been to invest external defense [^9], External security refers to the protection of the philippines sovereign state against threats from outside there borders, this includes military aggression, armed conflict, and cross-border instability... That means the philippines is investing in external security to protect its sovereignty from China aggression. The U.S and Philippines agreed to the Nine Enhanced Defense Cooperation Agreement (EDCA) Sites, which provide military access to nine defense sites across the Philippines, four of the agreed sites were established in 2023(Naval Base Camilo Osias in Sta Ana, Cagayan; Lal-lo Airport in Lal-lo, Cagayan; Camp Melchor Dela Cruz in Gamu, Isabela and Balabac Island in Palawan)[^13]. 
-
-
-
-
-Supporting questions
-
-1. **Where has the U.S. based already invested in?**
-
-   **Answer:** Under the Nine Enhanced Defense Cooperations Agreement (EDCA) the U.S has access to nine defense sites across the philippines. Five of bases were agreed upon in 2014(Antonio Bautista Air Base in Palawan, Basa Air Base in Pampanga, Fort Magsaysay in Nueva Ecija, Lumbia Airport in Cagayan de Oro, Benito Ebuen Air Base in Cebu)[^13]. In total of 100 million 
-     - Antonio Bautista Air Base Palawn 
-        - From 2016 to 2023 significant have been done from the entire runway being resurfaced and expanded with hangars added in 2018 and 2019. Lastly paved cemend areas were expanded in 2022 and 2023. 
-     - Base Air Base in Pampanga
-        - From 
-     - Fort Magsaysay in Nueva Ecija
-     - Lumbia Airport in Cagyan de Oro
-     - Benito Ebuen Air Base in Cebu
-2. How much has been invested?
-3. What type of infrastructure is being funded?
-4. Why are these locations strategically important?
-5. Which locations have evidence of additional future investment or expanded access?
-
-What do you want to show on the dashboard for the Philippines section : 
-
-1. show in the South China sea where conflict with China is occuring 
-2. Show what steps the US and Philippines are will/are doing to deter China
-   - show where the U.S investment in the philippines is headed. 
-   - show what excursies the U.S and Philippines that have/will take place
-
-
-
-## Key Findings
-Not yet completed...
-
-
-
 ## Source & Methodology
 6. In July 2016, the Permanent Court of Arbitration at The Hague ruled on a claim brought against China by the Philippines under UNCLOS, ruling in favor of the Philippines on almost every count.[Territorial Dispute in the South China Sea ](https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea)
 
