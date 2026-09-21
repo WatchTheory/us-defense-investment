@@ -7,8 +7,8 @@
 
 - [Overview](#Overview)
 - [Background](#Background)
-- [Key Findings](#Key-Findings)
-- [Philippines Dashboard](#Philippines-Dashboard)
+- [Limitations](#Limitations)
+- [Data & Methodology](#Data-&-Methodology)
 - [Source & Methodology](#Source-&-Methodology)
 
 ## Overview
@@ -28,23 +28,23 @@ This project examines those distinctions to make reported investments easier to 
 
 ## Limitations
 
-- Announced allocations ≠ obligated ≠ spent; no contract-level spending data was
-  publicly available.
-- Site purposes are DOD-stated; actual end-use is not independently verified.
-- ⟨N⟩ data points are single-source and marked as such in the dashboard.
-- The four 2023 sites have minimal construction data; findings about them are
-  directional.
-- Analysis cutoff: ⟨date⟩; later announcements not included.
+- Recorded allocations and announcements do not establish actual spending or completed construction.
+- The current dataset does not include contract-level spending data.
+- Individual site allocation records cover five sites; they do not provide a complete funding picture for all nine EDCA locations.
+- The five-site subtotal of `$86.17 million` has not been reconciled with the separately recorded approximately `$82 million` milestone.
+- Source identifiers still need to be connected to complete citations.
+- Dashboard development and source validation remain in progress.
+
 
 
 ## Data & Methodology
 
-- **Site identification:** ⟨method — e.g., DOD site designations 2014/2023 + cross-check⟩
-- **Investment categorization:** ⟨announced / obligated / spent; project-type taxonomy⟩
-- **Strategic relevance scoring:** ⟨distance metrics, capability overlap, redundancy⟩
-- **Data quality flags:** single-source items flagged; announced-vs-obligated
-  distinction preserved throughout; every dashboard visual traceable to a numbered
-  reference.
+The current funding dataset contains 10 records dated 2022–2023. Each record includes a location, description, date, funding status,amount, source identifier, and notes.
+
+Records distinguish program milestones, cumulative site allocations, and individual projects. The `count_in_site_total` field identifies which records are included in the five-site subtotal, helping prevent overlapping program and project amounts from being added together.
+
+The dataset documents corrections and unresolved issues, including the Fort Magsaysay amount correction from `$114 million` to `$11.4 million`. Full source citations and reconciliation of reported totals remain in progress.
+
 
 
 ## Source & Methodology
