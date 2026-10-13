@@ -7,6 +7,7 @@
 
 - [Overview](#Overview)
 - [Background](#Background)
+- [Key Findings](#Key-Findings)
 - [Limitations](#Limitations)
 - [Data & Methodology](#Data-&-Methodology)
 - [Source & Methodology](#Source-&-Methodology)
