@@ -28,9 +28,9 @@ This project examines those distinctions to make reported investments easier to 
 
 
 ## Key Findings
-- The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
-- Treat Transarency and project tracking as part of the policy recommendation.
-- Prioritieze enabling infrastrcture rather than building another hub.
+
+
+
 
 
 ## Limitations
@@ -42,6 +42,11 @@ This project examines those distinctions to make reported investments easier to 
 - Source identifiers still need to be connected to complete citations.
 - Dashboard development and source validation remain in progress.
 
+
+## Recommandataion
+- The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
+- Treat Transarency and project tracking as part of the policy recommendation.
+- Prioritieze enabling infrastrcture rather than building another hub.
 
 
 ## Data & Methodology
