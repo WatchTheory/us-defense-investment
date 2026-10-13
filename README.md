@@ -26,6 +26,13 @@ Understanding this investment requires more than collecting dollar amounts. Publ
 This project examines those distinctions to make reported investments easier to compare by location, purpose, and status. It also identifies where missing documentation or conflicting figures limit the conclusions that can be drawn.
 
 
+## Key Findings
+- Basa and Fort Magsaysay together account for 90.5% of the recorded total 
+- The Infrastructure descriptions suggest an empahasis on supporting operations link to Taiwan
+- The funding for 2023 Expanded sites can not yet support one comprehensive spending total
+
+
+
 ## Limitations
 
 - Recorded allocations and announcements do not establish actual spending or completed construction.
