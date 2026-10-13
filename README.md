@@ -28,10 +28,9 @@ This project examines those distinctions to make reported investments easier to 
 
 
 ## Key Findings
-- Basa and Fort Magsaysay together account for 90.5% of the recorded total 
-- The Infrastructure descriptions suggest an empahasis on supporting operations link to Taiwan
-- The funding for 2023 Expanded sites can not yet support one comprehensive spending total
-
+- The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
+- Treat Transarency and project tracking as part of the policy recommendation.
+- Prioritieze enabling infrastrcture rather than building another hub.
 
 
 ## Limitations
