@@ -9,6 +9,7 @@
 - [Background](#Background)
 - [Key Findings](#Key-Findings)
 - [Limitations](#Limitations)
+- [Recommendation](#Recommendations)
 - [Data & Methodology](#Data-&-Methodology)
 - [Source & Methodology](#Source-&-Methodology)
 
@@ -28,9 +29,9 @@ This project examines those distinctions to make reported investments easier to 
 
 
 ## Key Findings
-
-
-
+- Recorded infrastructure allocations are heavily concentrated at two EDCA locations
+- EDCA expansion has geographically diversified U.S military access, but funding coverage remains incomplete
+- Publicly documented funding does not establish how much infrastructure has actually been completed.
 
 
 ## Limitations
