@@ -41,13 +41,17 @@ This project examines those distinctions to make reported investments easier to 
 - Individual site allocation records cover five sites; they do not provide a complete funding picture for all nine EDCA locations.
 - The five-site subtotal of `$86.17 million` has not been reconciled with the separately recorded approximately `$82 million` milestone.
 - Source identifiers still need to be connected to complete citations.
-- Dashboard development and source validation remain in progress.
 
 
 ## Recommandataion
 - The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
 - Treat Transarency and project tracking as part of the policy recommendation.
 - Prioritieze enabling infrastrcture rather than building another hub.
+
+
+## Screenshot
+![US-defense-dashboard.jpg](./US-defense-dashboard.jpg)
+
 
 
 ## Data & Methodology
@@ -57,7 +61,6 @@ The current funding dataset contains 10 records dated 2022–2023. Each record i
 Records distinguish program milestones, cumulative site allocations, and individual projects. The `count_in_site_total` field identifies which records are included in the five-site subtotal, helping prevent overlapping program and project amounts from being added together.
 
 The dataset documents corrections and unresolved issues, including the Fort Magsaysay amount correction from `$114 million` to `$11.4 million`. Full source citations and reconciliation of reported totals remain in progress.
-
 
 
 ## Source & Methodology
