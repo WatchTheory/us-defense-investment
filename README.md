@@ -39,7 +39,7 @@ This project examines those distinctions to make reported investments easier to 
 - Recorded allocations and announcements do not establish actual spending or completed construction.
 - The current dataset does not include contract-level spending data.
 - Individual site allocation records cover five sites; they do not provide a complete funding picture for all nine EDCA locations.
-- The five-site subtotal of `$86.17 million` has not been reconciled with the separately recorded approximately `$82 million` milestone.
+- ~~The five-site subtotal of `$86.17 million` has not been reconciled with the separately recorded approximately `$82 million` milestone.~~
 - Source identifiers still need to be connected to complete citations.
 
 
