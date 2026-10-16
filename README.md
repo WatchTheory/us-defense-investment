@@ -17,6 +17,8 @@
 
 This ongoing project examines publicly reported U.S. defense infrastructure investment in the Philippines, focusing on the location, purpose, and status of funding associated with EDCA sites. The dataset distinguishes program milestones, site allocations, and individual projects to reduce double counting. Current funding records cover 2022–2023. Source reconciliation and dashboard development remain in progress; recorded allocations should not be interpreted as verified expenditures.
 
+## Screenshot
+![US-defense-dashboard.jpg](./US-defense-dashboard.jpg)
 
 
 ## Background 
@@ -49,8 +51,7 @@ This project examines those distinctions to make reported investments easier to 
 - Prioritieze enabling infrastrcture rather than building another hub.
 
 
-## Screenshot
-![US-defense-dashboard.jpg](./US-defense-dashboard.jpg)
+
 
 
 
@@ -61,6 +62,10 @@ The current funding dataset contains 10 records dated 2022–2023. Each record i
 Records distinguish program milestones, cumulative site allocations, and individual projects. The `count_in_site_total` field identifies which records are included in the five-site subtotal, helping prevent overlapping program and project amounts from being added together.
 
 The dataset documents corrections and unresolved issues, including the Fort Magsaysay amount correction from `$114 million` to `$11.4 million`. Full source citations and reconciliation of reported totals remain in progress.
+
+
+
+
 
 
 ## Source & Methodology
