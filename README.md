@@ -43,7 +43,7 @@ This project examines those distinctions to make reported investments easier to 
 
 
 ## Question for Future Works
-- How much of the recorded allocation has been contracted or spent, and at which sites? (This needs contract-level data the current dataset doesn’t have.)
+- How much of the recorded allocation has been contracted or spent, and at which sites? 
 - Does the concentration of funding at two sites match actual construction progress, and how do the four 2023 sites compare?
 - Would the infrastructure types recorded in the data (such as fuel storage, warehouses, and runways) suggest a different balance between enabling infrastructure  and major hubs?
 - Public reporting that ties allocations to contracts and completion dates would make analyses like this one verifiable?
