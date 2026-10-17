@@ -19,7 +19,7 @@
 
 ## Overview
 
-This ongoing project examines publicly reported U.S. defense infrastructure investment in the Philippines, focusing on the location, purpose, and status of funding associated with EDCA sites. The dataset distinguishes program milestones, site allocations, and individual projects to reduce double counting. Current funding records cover 2022–2023. Source reconciliation and dashboard development remain in progress; recorded allocations should not be interpreted as verified expenditures.
+This ongoing project examines publicly reported U.S. defense infrastructure investment in the Philippines, focusing on the location, purpose, and status of funding associated with EDCA sites. The dataset distinguishes program milestones, site allocations, and individual projects to reduce double counting. Current funding records cover 2016–2023. 
 
 ## Screenshot
 ![US-defense-dashboard.jpg](./US-defense-dashboard.jpg)
