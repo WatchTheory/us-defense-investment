@@ -43,7 +43,7 @@ This project examines those distinctions to make reported investments easier to 
 
 
 
-## Recommandataion
+## Recommendataion
 - The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
 - Treat Transarency and project tracking as part of the policy recommendation.
 - Prioritieze enabling infrastrcture rather than building another hub.
