@@ -103,16 +103,19 @@ The published geographic dataset includes amounts for five locations. Missing fu
 
 ### Philippines Investment
 
-
-
-
-
-## Data Limitations
-
-
-
-
-
+**Contains only the 5 EDCA bases**
+| Column | Description |
+|---|---|
+| Site_id | Site identifier and name | 
+| Site By Year  |designation year base was created |
+| Site By Name  |Province name  |
+| Province Name | Province Name |
+| Country   | Country the base is located |
+| Latitude  | Latitude of the base |
+| Longitude | Longitude of the base |
+| Access Type | Reported infrastructure purposes |
+| Total Invested (In USD) | Reported site-level investment amount, when available |
+| Distance to Taiwan | Estimated distance to Taiwan |
 
 ## Tools 
 
