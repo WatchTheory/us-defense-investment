@@ -170,4 +170,4 @@ The published geographic dataset includes amounts for five locations. Missing fu
 - Project timeline & aging (announcement → groundbreaking → completion).
 - Chinese gray-zone activity overlays (Scarborough Shoal, West Philippine Sea).
 - Maritime route and distance analysis (Luzon Strait, Bashi Channel).
-- Expand to Japan, Guam, Palau, PNG, and Australia for benchmarking.
+- Expand to Japan, Guam, Palau, PNG, and Australia
