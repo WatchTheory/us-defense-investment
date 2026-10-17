@@ -37,7 +37,6 @@ This project examines those distinctions to make reported investments easier to 
 
 
 
-
 ## Recommandataion
 - The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
 - Treat Transarency and project tracking as part of the policy recommendation.
@@ -67,7 +66,6 @@ This project examines those distinctions to make reported investments easier to 
 ### ECDA Sites
 The geographic dataset contains nine EDCA locations in the Philippines, representing five original locations and four additional locations designated in 2023.
 
-Each site record includes:
 
 | Column | Description |
 |---|---|
@@ -85,18 +83,28 @@ Each site record includes:
 The published geographic dataset includes amounts for five locations. Missing funding values for the four additional sites should not be interpreted as zero investment.
 
 
+### US Pledge
+
+| Column | Description |
+|---|---|
+|  Event                |  What the U.S promoise to do.  |
+|  Date                 |  Date the base was created     |         
+|  Sector               |  Type of Sector                |
+|  Amount               |  The Amount the U.S Pledge     |  
+
+
+### Philippines Investment
+
+
+
+
+
 ## Data Limitations
 
 - Only 5 out of 9 ECDA sites had source material, the other 4 sites no information was found and couldn't be verifted
 - No offical dataset or unoffical dataset could be located.
 
 
-
-
----
-- The current funding dataset contains 10 records dated 2022–2023. Each record includes a location, description, date, funding status,amount, source identifier, and notes.
-- ~~Records distinguish program milestones, cumulative site allocations, and individual projects. The `count_in_site_total` field identifies which records are included in the five-site subtotal, helping prevent overlapping program and project amounts from being added together.~~
-The geographic dataset contains a reported subtotal of `$86.17` million across five sites. This figure has not been reconciled with the separately reported funding milestone of more than `$82 million`.
 
 
 ## Tools 
@@ -114,7 +122,7 @@ The geographic dataset contains a reported subtotal of `$86.17` million across f
 
 ## Source & Methodology
 
-**Data**
+**Data Source by File**
 - EDCA_sites.csv:
   1. A fact sheet released by U.S. Embassy Manila in March states that the United States has funded approximately `$1.8 million` for the construction of an ammunition warehouse, fuel storage, and command and control infrastructure, as well as the renovation of a storage warehouse at Antonio Bautista Air Base.[Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/) 
   2. As of March, `$66.57 million` had been allocated for a range of improvement projects, including a humanitarian assistance and disaster relief (HADR) warehouse, command and control infrastructure, fuel storage, runway improvements, and aircraft parking.  [Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/)
@@ -129,9 +137,6 @@ The geographic dataset contains a reported subtotal of `$86.17` million across f
   - Same as source 4 in EDCA_site
   - The sole EDCA project announced at Mactan-Benito Ebuen is a 40,000-gallon fuel storage facility for which the United States is investing `$2.7 million`. [Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/)
  
-
-
-
 - U.S Pledge Amount.csv: 
   - USAID, with the support of the U.S. Congress, aims to provide `$5 million` to support Philippine infrastructure initiatives. [US-Philippine-investment](https://us-philippines-investment.csis.org)
   - The United States will spend `$100 million` on Philippine military facility upgrades. [US-Philippine-investment](https://thediplomat.com/2023/04/us-to-spend-100-million-on-upgrades-to-philippine-military-facilities/)
@@ -143,13 +148,12 @@ The geographic dataset contains a reported subtotal of `$86.17` million across f
   
   
 ### Other Sources
-6. In July 2016, the Permanent Court of Arbitration at The Hague ruled on a claim brought against China by the Philippines under UNCLOS, ruling in favor of the Philippines on almost every count.[Territorial Dispute in the South China Sea ](https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea)
+1. In July 2016, the Permanent Court of Arbitration at The Hague ruled on a claim brought against China by the Philippines under UNCLOS, ruling in favor of the Philippines on almost every count.[Territorial Dispute in the South China Sea ](https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea)
 
 
+2. The Philippines allows the U.S. DOD to deploy military forces at nine Philippine defense sites spread across the country. This access is governed by the Enhanced Defense Cooperation Agreement (EDCA), a bilateral agreement between the Philippines and the United States initially signed in 2014 and expanded in 2023.[U.S. Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
 
-13. The Philippines allows the U.S. DOD to deploy military forces at nine Philippine defense sites spread across the country. This access is governed by the Enhanced Defense Cooperation Agreement (EDCA), a bilateral agreement between the Philippines and the United States initially signed in 2014 and expanded in 2023.[U.S. Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
-
-14. Nine Enhanced Defense Cooperation Agreement (EDCA) Sites. Under the Enhanced Defense Cooperation Agreement, the U.S. military has rotational access to nine defense sites across the Philippines. Five of these installations were agreed upon in 2014 (Antonio Bautista Air Base in Palawan, Basa Air Base in Pampanga, Fort Magsaysay in Nueva Ecija, Lumbia Airport in Cagayan de Oro, Benito Ebuen Air Base in Cebu), while the remaining four were agreed upon in 2023 (Naval Base Camilo Osias in Sta Ana, Cagayan; Lal-lo Airport in Lal-lo, Cagayan; Camp Melchor Dela Cruz in Gamu, Isabela and Balabac Island in Palawan)[U.S Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
+3. Nine Enhanced Defense Cooperation Agreement (EDCA) Sites. Under the Enhanced Defense Cooperation Agreement, the U.S. military has rotational access to nine defense sites across the Philippines. Five of these installations were agreed upon in 2014 (Antonio Bautista Air Base in Palawan, Basa Air Base in Pampanga, Fort Magsaysay in Nueva Ecija, Lumbia Airport in Cagayan de Oro, Benito Ebuen Air Base in Cebu), while the remaining four were agreed upon in 2023 (Naval Base Camilo Osias in Sta Ana, Cagayan; Lal-lo Airport in Lal-lo, Cagayan; Camp Melchor Dela Cruz in Gamu, Isabela and Balabac Island in Palawan)[U.S Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
 
 
 ## Future Work
