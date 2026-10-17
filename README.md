@@ -6,12 +6,17 @@
 ## Table of Content 
 
 - [Overview](#Overview)
+- [Screenshot](#Screenshot)
 - [Background](#Background)
 - [Key Findings](#Key-Findings)
-- [Limitations](#Limitations)
 - [Recommandation](#Recommandation)
+- [Limitations](#Limitations)
+- [Data & Methology](#Data-&-Methology)
 - [Data & Methodology](#Data-&-Methodology)
+- [Tools](#Tools)
 - [Source & Methodology](#Source-&-Methodology)
+- [Other Sources](#Other-Sources)
+- [Future](#Future)
 
 ## Overview
 
@@ -48,8 +53,11 @@ This project examines those distinctions to make reported investments easier to 
 - Recorded allocations and announcements do not establish actual spending or completed construction.
 - The current dataset does not include contract-level spending data.
 - Individual site allocation records cover five sites; they do not provide a complete funding picture for all nine EDCA locations.
-- ~~The five-site subtotal of `$86.17 million` has not been reconciled with the separately recorded approximately `$82 million` milestone.~~
-- Source identifiers still need to be connected to complete citations.
+- Only 5 out of 9 ECDA sites had source material, the other 4 sites no information was found and couldn't be verifted
+- No offical dataset or unoffical dataset could be located.
+
+
+
 
 
 ## Data & Methology
@@ -101,8 +109,7 @@ The published geographic dataset includes amounts for five locations. Missing fu
 
 ## Data Limitations
 
-- Only 5 out of 9 ECDA sites had source material, the other 4 sites no information was found and couldn't be verifted
-- No offical dataset or unoffical dataset could be located.
+
 
 
 
@@ -156,7 +163,7 @@ The published geographic dataset includes amounts for five locations. Missing fu
 3. Nine Enhanced Defense Cooperation Agreement (EDCA) Sites. Under the Enhanced Defense Cooperation Agreement, the U.S. military has rotational access to nine defense sites across the Philippines. Five of these installations were agreed upon in 2014 (Antonio Bautista Air Base in Palawan, Basa Air Base in Pampanga, Fort Magsaysay in Nueva Ecija, Lumbia Airport in Cagayan de Oro, Benito Ebuen Air Base in Cebu), while the remaining four were agreed upon in 2023 (Naval Base Camilo Osias in Sta Ana, Cagayan; Lal-lo Airport in Lal-lo, Cagayan; Camp Melchor Dela Cruz in Gamu, Isabela and Balabac Island in Palawan)[U.S Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
 
 
-## Future Work
+## Future
 
 - Add contract-level spending data (FOIA / USAspending).
 - Project timeline & aging (announcement → groundbreaking → completion).
