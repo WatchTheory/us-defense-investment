@@ -57,9 +57,6 @@ This project examines those distinctions to make reported investments easier to 
 - No offical dataset or unoffical dataset could be located.
 
 
-
-
-
 ## Data & Methology
 
 | File | Contents |
