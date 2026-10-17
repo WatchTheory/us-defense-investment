@@ -25,6 +25,7 @@ This ongoing project examines publicly reported U.S. defense infrastructure inve
 ## Screenshot
 ![US-defense-dashboard.jpg](./US-defense-dashboard.jpg)
 
+Power BI dashboard: [U.S Defence on Philippines](https://github.com/WatchTheory/us-defense-investment/blob/main/U.S%20Defence%20on%20Philippines.pbix)
 
 ## Background 
 
