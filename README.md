@@ -1,9 +1,9 @@
-# U.S Defense Infrastructure Investment in the Philippines (2016 - 2026)
+# U.S Defense Infrastructure Investment in the Philippines (2016 - 2023)
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
 
-- **Data as of:** ⟨August 2026⟩ · **Analysis period:** FY2017–FY2026
+- **Data as of:** ⟨October 2026⟩ · **Analysis period:** FY2016–FY2023
 
-## Table of Content 
+## Table of Contents
 
 - [Overview](#Overview)
 - [Screenshot](#Screenshot)
@@ -11,10 +11,9 @@
 - [Key Findings](#Key-Findings)
 - [Recommandation](#Recommandation)
 - [Limitations](#Limitations)
-- [Data & Methology](#Data-&-Methology)
-- [Data & Methodology](#Data-&-Methodology)
+- [Data & Methodology](#Data-Methodology)
 - [Tools](#Tools)
-- [Source & Methodology](#Source-&-Methodology)
+- [Source & Methodology](#Source-Methodology)
 - [Other Sources](#Other-Sources)
 - [Future](#Future)
 
@@ -44,7 +43,7 @@ This project examines those distinctions to make reported investments easier to 
 
 
 ## Recommendataion
-- The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA location.
+- The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA locations.
 - Treat Transarency and project tracking as part of the policy recommendation.
 - Prioritieze enabling infrastrcture rather than building another hub.
 
@@ -120,10 +119,10 @@ The published geographic dataset includes amounts for five locations. Missing fu
 
 | Tool | Reason |
 |---|---|
-| Power BI | Used to create the Dashboard
-| Microsoft Excel |  Manual record keeping and source reconciliation
-| Git, Zed, VSCode | To pull notes from the sever and viewing/creating notes
-| ChatGPT|  Reviewing the project, mock dashboard and checking for erros
+| Power BI Desktop| Used to create the Dashboard  |
+| Microsoft Excel |  Manual record keeping and source reconciliation |
+| Git, Zed, VSCode | To pull notes from the sever and viewing/creating notes |
+| ChatGPT|  Reviewing the project, mock dashboard and checking for erros  |
 
 
 
