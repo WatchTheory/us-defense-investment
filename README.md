@@ -19,7 +19,9 @@
 
 ## Overview
 
-This ongoing project examines publicly reported U.S. defense infrastructure investment in the Philippines, focusing on the location, purpose, and status of funding associated with EDCA sites. The dataset distinguishes program milestones, site allocations, and individual projects to reduce double counting. Current funding records cover 2016–2023. 
+This ongoing project examines publicly reported U.S. defense infrastructure investment in the Philippines, focusing on the location, purpose, and status of funding associated with EDCA sites. 
+
+The dataset distinguishes program milestones, site allocations, and individual projects to reduce double counting. Current funding records cover 2016–2023. 
 
 ## Screenshot
 ![US-defense-dashboard.jpg](./US-defense-dashboard.jpg)
@@ -39,7 +41,7 @@ This project examines those distinctions to make reported investments easier to 
 - Recorded infrastructure allocations are heavily concentrated at two EDCA locations
 - EDCA expansion has geographically diversified U.S military access, but funding coverage remains incomplete
 - Publicly documented funding does not establish how much infrastructure has actually been completed.
-
+- Reported site-level allocations for the five original EDCA sites total approximately `'$86.17 million` (Basa Air Base `'$66.57M, Fort Magsaysay` `'$11.4M, Lumbia` `'$3.7M Mactan-Benito Ebuen` `'$2.7M, Antonio` `Bautista $1.8M`). These are figures from public reporting, not confirmed expenditures or completed construction. The figure excludes the four sites added in 2023, for which no amounts were found, and it is not a total of U.S. defense spending in the Philippines.
 
 
 ## Question for Future Works
