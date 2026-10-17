@@ -28,11 +28,11 @@ Power BI dashboard: [U.S Defence on Philippines](https://github.com/WatchTheory/
 
 ## Background 
 
-The Enhanced Defense Cooperation Agreement (EDCA) provides a framework for U.S. military access to agreed Philippine defense facilities. Infrastructure associated with these sites includes runway improvements,fuel storage, warehouses, and command-and-control facilities.
+The Enhanced Defense Cooperation Agreement (EDCA) provides a framework for U.S. military access to agreed Philippine defense facilities. Infrastructure associated with these sites includes runway improvements,fuel storage, warehouses, and command-and-control facilities.[^3]
 
 Understanding this investment requires more than collecting dollar amounts. Public reports describe program-wide funding announcements, allocations to individual sites, and specific construction projects. These figures can overlap, refer to different reporting dates, or represent different stages of funding and delivery. An announced allocation does not, by itself, establish that money has been spent or construction completed.
 
-This project examines those distinctions to make reported investments easier to compare by location, purpose, and status. It also identifies where missing documentation or conflicting figures limit the conclusions that can be drawn.
+This project examines those distinctions to make reported investments easier to compare by location, purpose, and status. It also identifies where missing documentation or conflicting figures limit the conclusions that can be drawn. This dashboard is for anyone who might not understand or have any clue on what is currently happening in the Western Pacific. 
 
 
 ## Key Findings
@@ -42,10 +42,12 @@ This project examines those distinctions to make reported investments easier to 
 
 
 
-## Recommendataion
-- The U.S should prioritize completing, hardening and diversifying infrastructure across the existing nine EDCA locations.
-- Treat Transarency and project tracking as part of the policy recommendation.
-- Prioritieze enabling infrastrcture rather than building another hub.
+## Question for Future Works
+- How much of the recorded allocation has been contracted or spent, and at which sites? (This needs contract-level data the current dataset doesn’t have.)
+- Does the concentration of funding at two sites match actual construction progress, and how do the four 2023 sites compare?
+- Would the infrastructure types recorded in the data (such as fuel storage, warehouses, and runways) suggest a different balance between enabling infrastructure  and major hubs?
+- Public reporting that ties allocations to contracts and completion dates would make analyses like this one verifiable?
+
 
 
 ## Limitations
