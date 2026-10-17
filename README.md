@@ -69,20 +69,27 @@ The geographic dataset contains nine EDCA locations in the Philippines, represen
 
 Each site record includes:
 
-- Site identifier and name
-- Province and country
-- Site designation year
-- Latitude and longitude
-- Reported infrastructure purposes
-- Reported site-level investment amount, when available
-- Estimated distance to Taiwan
+| Column | Description |
+|---|---|
+| Site_id | Site identifier and name | 
+| Site By Year  |designation year base was created |
+| Site By Name  |Province name  |
+| Province Name | Province Name |
+| Country   | Country the base is located |
+| Latitude  | Latitude of the base |
+| Longitude | Longitude of the base |
+| Access Type | Reported infrastructure purposes |
+| Total Invested (In USD) | Reported site-level investment amount, when available |
+| Distance to Taiwan | Estimated distance to Taiwan |
 
 The published geographic dataset includes amounts for five locations. Missing funding values for the four additional sites should not be interpreted as zero investment.
 
 
-## Data Quality & Limitations
+## Data Limitations
 
 - Only 5 out of 9 ECDA sites had source material, the other 4 sites no information was found and couldn't be verifted
+- No offical dataset or unoffical dataset could be located.
+
 
 
 
@@ -114,12 +121,13 @@ The geographic dataset contains a reported subtotal of `$86.17` million across f
   3. The United States has allocated `$11.4 million` to EDCA projects at Fort Magsaysay, a base in central Luzon that serves as a staging area and command and control facility for many training engagements including the annual Balikatan exercises. This is the second largest allocated U.S.-funding amount among EDCA sites, and is being put toward projects including a HADR warehouse, command and control infrastructure, and urban combat training facilities.[Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/) 
   4.  Lumbia Air Base is located in the Northern Mindanao region of the Philippines and is the target recipient of `$3.7 million` in U.S. funding for the construction of a HADR warehouse and improvements to runway lighting. But beyond these modest EDCA projects, satellite imagery shows Lumbia is in the midst of other major improvements to its runway, hangars, and aircraft parking. [Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/)
   5.  The sole EDCA project announced at Mactan-Benito Ebuen is a 40,000-gallon fuel storage facility for which the United States is investing `$2.7 million`. [Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/) 
-  
+
 - Philippines-Investment.csv : 
   - Same as source 1 in EDCA_sites
-  - Same as
+  - As of March, `$66.57 million` had been allocated for a range of improvement projects, including a humanitarian assistance and disaster relief (HADR) warehouse, command and control infrastructure, fuel storage, runway improvements, and aircraft parking.  [Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/) 
   - Same as source 3 in EDCA_site
-  - Same as source 4 in EDCA_sites
+  - Same as source 4 in EDCA_site
+  - The sole EDCA project announced at Mactan-Benito Ebuen is a 40,000-gallon fuel storage facility for which the United States is investing `$2.7 million`. [Asia Maritime Initiative](https://amti.csis.org/more-than-meets-the-eye-philippine-upgrades-at-edca-sites/)
  
 
 
@@ -134,13 +142,10 @@ The geographic dataset contains a reported subtotal of `$86.17` million across f
   - Same as source 4 in EDCA_sites
   
   
-
-
-
-
+### Other Sources
 6. In July 2016, the Permanent Court of Arbitration at The Hague ruled on a claim brought against China by the Philippines under UNCLOS, ruling in favor of the Philippines on almost every count.[Territorial Dispute in the South China Sea ](https://www.cfr.org/global-conflict-tracker/conflict/territorial-disputes-south-china-sea)
 
-9. Increasing International Military Education and Training (IMET):  The United States is providing `$21.45 million` to enhance military education and training for ASEAN countries.[U.S Mission To ASEAN](https://asean.usmission.gov/advancing-american-safety-strength-and-prosperity-in-southeast-asia/).
+
 
 13. The Philippines allows the U.S. DOD to deploy military forces at nine Philippine defense sites spread across the country. This access is governed by the Enhanced Defense Cooperation Agreement (EDCA), a bilateral agreement between the Philippines and the United States initially signed in 2014 and expanded in 2023.[U.S. Defense Infrastructure in the Indo-Pacific](https://www.congress.gov/crs-product/R47589#_Ref132621140)
 
