@@ -30,7 +30,7 @@ Power BI dashboard: [U.S Defence on Philippines](https://github.com/WatchTheory/
 
 ## Background 
 
-The Enhanced Defense Cooperation Agreement (EDCA) provides a framework for U.S. military access to agreed Philippine defense facilities. Infrastructure associated with these sites includes runway improvements,fuel storage, warehouses, and command-and-control facilities.[^3]
+The Enhanced Defense Cooperation Agreement (EDCA) provides a framework for U.S. military access to agreed Philippine defense facilities. Infrastructure associated with these sites includes runway improvements,fuel storage, warehouses, and command-and-control facilities.[3](#Source-Methodology)
 
 Understanding this investment requires more than collecting dollar amounts. Public reports describe program-wide funding announcements, allocations to individual sites, and specific construction projects. These figures can overlap, refer to different reporting dates, or represent different stages of funding and delivery. An announced allocation does not, by itself, establish that money has been spent or construction completed.
 
