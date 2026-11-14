@@ -9,7 +9,7 @@
 - [Screenshot](#Screenshot)
 - [Background](#Background)
 - [Key Findings](#Key-Findings)
-- [Recommandation](#Recommandation)
+- [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
 - [Data & Methodology](#Data-Methodology)
 - [Tools](#Tools)
@@ -57,11 +57,11 @@ This project examines those distinctions to make reported investments easier to 
 - Recorded allocations and announcements do not establish actual spending or completed construction.
 - The current dataset does not include contract-level spending data.
 - Individual site allocation records cover five sites; they do not provide a complete funding picture for all nine EDCA locations.
-- Only 5 out of 9 ECDA sites had source material, the other 4 sites no information was found and couldn't be verifted
-- No offical dataset or unoffical dataset could be located.
+- Only 5 out of 9 EDCA sites had source material, the other 4 sites no information was found and couldn't be verifted
+- No official dataset or unofficial dataset could be located.
 
 
-## Data & Methology
+## Data & Methodology
 
 | File | Contents |
 |---|---|
@@ -72,7 +72,7 @@ This project examines those distinctions to make reported investments easier to 
 
 
 
-### ECDA Sites
+### EDCA Sites
 The geographic dataset contains nine EDCA locations in the Philippines, representing five original locations and four additional locations designated in 2023.
 
 
@@ -125,8 +125,8 @@ The published geographic dataset includes amounts for five locations. Missing fu
 |---|---|
 | Power BI Desktop| Used to create the Dashboard  |
 | Microsoft Excel |  Manual record keeping and source reconciliation |
-| Git, Zed, VSCode | To pull notes from the sever and viewing/creating notes |
-| ChatGPT|  Reviewing the project, mock dashboard and checking for erros  |
+| Git, Zed, VSCode | To pull notes from the server and viewing/creating notes |
+| ChatGPT|  Reviewing the project, mock dashboard and checking for errors  |
 
 
 
