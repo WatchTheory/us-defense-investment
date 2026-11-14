@@ -1,7 +1,7 @@
 # U.S Defense Infrastructure Investment in the Philippines (2016 - 2023)
 > **Research Focus:** U.S.–Philippines defense infrastructure investment, military access, and strategic priorities
 
-- **Data as of:** ⟨October 2026⟩ · **Analysis period:** FY2016–FY2023
+- **Data as of:** October 2026 · **Analysis period:** FY2016–FY2023
 
 ## Table of Contents
 
@@ -34,7 +34,11 @@ The Enhanced Defense Cooperation Agreement (EDCA) provides a framework for U.S. 
 
 Understanding this investment requires more than collecting dollar amounts. Public reports describe program-wide funding announcements, allocations to individual sites, and specific construction projects. These figures can overlap, refer to different reporting dates, or represent different stages of funding and delivery. An announced allocation does not, by itself, establish that money has been spent or construction completed.
 
-This project examines those distinctions to make reported investments easier to compare by location, purpose, and status. It also identifies where missing documentation or conflicting figures limit the conclusions that can be drawn. This dashboard is for anyone who might not understand or have any clue on what is currently happening in the Western Pacific. 
+This project examines those distinctions to make reported investments easier to compare by location, purpose, and status. It also identifies where missing documentation or conflicting figures limit the conclusions that can be drawn.This dashboard provides policymakers, analysts, and the public with an accessible baseline of U.S. infrastructure posture in the Western Pacific
+
+
+
+
 
 
 ## Key Findings
